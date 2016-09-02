@@ -1,0 +1,6 @@
+C:\Users\Matt\Desktop\Applied_MB\Applied\Applied\bin\Applied.dll.config
+C:\Users\Matt\Desktop\Applied_MB\Applied\Applied\bin\Applied.dll
+C:\Users\Matt\Desktop\Applied_MB\Applied\Applied\bin\Applied.pdb
+C:\Users\Matt\Desktop\Applied_MB\Applied\Applied\obj\Debug\Applied.dll
+C:\Users\Matt\Desktop\Applied_MB\Applied\Applied\obj\Debug\Applied.pdb
+C:\Users\Matt\Desktop\Applied_MB\Applied\Applied\obj\Debug\Applied.csprojResolveAssemblyReference.cache

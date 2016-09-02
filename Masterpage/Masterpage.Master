@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Masterpage.master.cs" Inherits="Applied.Masterpage.Masterpage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Applied_Insurance</title>
+
+    <script src="../Scripts/myScript.js"></script>
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+
+    <script src="../Scripts/jquery-3.1.0.min.js"></script>
+    <script src="../Scripts/bootstrap.min.js"></script>
+    
+
+    
+</body>
+</html>
